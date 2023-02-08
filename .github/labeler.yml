@@ -37,8 +37,8 @@ a11y:
       - pages/**/index.md
       - people/**/index.md"
       - README.md
-      - LICENSE-ND.md
-      - LICENSE-SA.md
+      - LICENSE.md
+      - LICENSE.txt
     removed:
       - css/**/*.md
       - html/**/*.md
@@ -53,8 +53,8 @@ a11y:
       - pages/**/index.md
       - people/**/index.md"
       - README.md
-      - LICENSE-ND.md
-      - LICENSE-SA.md
+      - LICENSE.md
+      - LICENSE.txt
     renamed:
       - css/**/*.md
       - html/**/*.md
@@ -69,8 +69,8 @@ a11y:
       - pages/**/index.md
       - people/**/index.md"
       - README.md
-      - LICENSE-ND.md
-      - LICENSE-SA.md
+      - LICENSE.md
+      - LICENSE.txt
 'демо':
   files:
     modified:
