@@ -2,6 +2,34 @@
 
 <!-- yaspeller ignore:start -->
 
+## Июнь 2023
+
+- 25 июня, [Intl.DateTimeFormat](https://doka.guide/js/intl-datetimeformat/), Антон Горелов
+- 22 июня, [Атрибут `capture`](https://doka.guide/html/capture/), eshevlyakova
+- 13 июня, [`<wbr>`](https://doka.guide/html/wbr/), Дмитрий Мех
+- 9 июня, [Создание массива из большого количества повторяющихся элементов](https://doka.guide/recipes/array-filling/), Александр Юрьев
+- 8 июня, [Что такое CMS](https://doka.guide/tools/cms/), Александр Рассудихин
+
+## Май 2023
+
+- 29 мая, [`alert`](https://doka.guide/a11y/role-alert/), Александр Ламков
+- 18 мая, [`alertdialog`](https://doka.guide/a11y/role-alertdialog/), Роман Агарков
+- 17 мая, [`aria-details`](https://doka.guide/a11y/aria-details/), Татьяна Фокина
+- 7 мая, [Выравниваем элемент по центру экрана](https://doka.guide/recipes/center/), Алёна Батицкая
+- 4 мая, [`dialog`](https://doka.guide/a11y/role-dialog/), Роман Агарков
+
+## Апрель 2023
+
+- 28 апреля, [Как устроена память](https://doka.guide/tools/trivial-memory-model/), Полина Гуртовая
+- 28 апреля, [`button`](https://doka.guide/a11y/role-button/), Яна Коричнева
+- 21 апреля, [`<noindex>`](https://doka.guide/html/noindex/), rrramble
+- 21 апреля, [`tab`](https://doka.guide/a11y/role-tab/), Татьяна Фокина
+- 21 апреля, [`tabpanel`](https://doka.guide/a11y/role-tabpanel/), Татьяна Фокина
+- 21 апреля, [Уровни доступности](https://doka.guide/a11y/wcag-conformance-levels/), Татьяна Фокина
+- 17 апреля, [`input`](https://doka.guide/js/event-input/), rrramble
+- 10 апреля, [`tablist`](https://doka.guide/a11y/role-tablist/), Татьяна Фокина
+- 7 апреля, [Разноцветный текст](https://doka.guide/recipes/multicolor-text/), Егор Левченко
+
 ## Март 2023
 
 - 29 марта, [`word-break`](https://doka.guide/css/word-break/), Лейла Мамедова

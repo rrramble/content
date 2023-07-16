@@ -81,6 +81,7 @@ groups:
       - multitasking-and-processes
       - process-management
       - ssh
+      - trivial-memory-model
 
   - name: Сеть
     items:
@@ -96,6 +97,7 @@ groups:
     items:
       - web-security
       - ssl-certificates
+      - cors
 
   - name: Форматы данных
     items:

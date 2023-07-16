@@ -7,8 +7,8 @@ keywords:
   - доступность
   - ARIA
 related:
-  - a11y/aria-intro
   - a11y/aria-roles
+  - a11y/role-generic
   - a11y/aria-describedby
 tags:
   - doka
@@ -36,7 +36,7 @@ tags:
 
 ## Как пишется
 
-Задайте тегу `aria-roledescription` с нужным названием роли в виде строки текста. Атрибут можно использовать почти для всех тегов и [ARIA-ролей](/a11y/aria-roles/), кроме [`<div>`](/html/div/) и [`<span>`](/html/span/) без явных ролей или тегов с явной ролью `generic`.
+Задайте тегу `aria-roledescription` с нужным названием роли в виде строки текста. Атрибут можно использовать почти для всех тегов и [ARIA-ролей](/a11y/aria-roles/), кроме [`<div>`](/html/div/) и [`<span>`](/html/span/) без явных ролей или тегов с явной ролью [`generic`](/a11y/role-generic/).
 
 ```html
 <!-- ⛔ Лучше так не делать -->

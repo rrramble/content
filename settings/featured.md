@@ -70,58 +70,58 @@ active:
   - recipes/character-counter
   - js/geolocation-api
   - a11y/content-hidden
-  - recipes/snow
-  - js/var-let
-  - css/pseudoelements
-  - tools/oop
-  - js/async-in-js
-  - js/deal-with-forms
-  - tools/markdown
-  - html/section
-  - css/specificity
-  - js/closures
-  - css/display
-  - tools/cli
-  - html/flow
-  - html/img
-  - html/doctype
-  - tools/clean-architecture
-  - css/transform-function
-  - tools/how-the-browser-creates-pages
-  - js/infinite-scroll
-  - html/form
-  - css/attr
-  - css/box-shadow
-  - css/box-model
   - html/article
+  - tools/ci-cd
+  - js/closures
+  - js/var-let
+  - html/doctype
+  - recipes/progress
+  - html/input
+  - css/attr
+  - tools/markdown
+  - tools/clean-architecture
+  - html/section
+  - css/custom-properties
+  - css/media
+  - css/box-shadow
+  - recipes/lets-encrypt-nginx
+  - a11y/aria-intro
+  - js/deal-with-forms
+  - tools/docker
+  - tools/how-to-test-and-why
+  - js/function
+  - tools/cli
+  - tools/static-types
+  - js/infinite-scroll
+  - tools/agile
+  - html/nav
+  - css/box-model
+  - css/pseudoelements
+  - a11y/aria-hidden
+  - js/boolean
   - tools/webpack
   - css/flexbox-guide
-  - html/nav
-  - recipes/lets-encrypt-nginx
-  - tools/network
-  - js/function
-  - js/execution-order
-  - css/custom-properties
-  - tools/agile
   - css/grid-guide
-  - recipes/progress
-  - html/video
-  - tools/ci-cd
-  - css/keyframes
-  - tools/bundlers
-  - html/div
-  - html/head
-  - html/input
-  - js/boolean
-  - tools/gitlab-ci-cd
-  - tools/docker
-  - a11y/aria-intro
-  - css/media
-  - a11y/screenreaders
-  - tools/static-types
-  - a11y/aria-hidden
-  - tools/how-to-test-and-why
-  - js/function-context
+  - js/execution-order
   - css/position
+  - css/specificity
+  - tools/oop
+  - css/transform-function
+  - tools/network
+  - html/img
+  - recipes/snow
+  - html/flow
+  - tools/gitlab-ci-cd
+  - tools/bundlers
+  - tools/how-the-browser-creates-pages
+  - html/form
+  - html/head
+  - js/function-context
+  - css/keyframes
+  - js/async-in-js
+  - html/video
+  - css/display
+  - html/div
+  - a11y/screenreaders
 ---
 

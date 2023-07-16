@@ -17,6 +17,7 @@ groups:
   - name: 'Другие стандарты и руководства'
     items:
       - wcag
+      - wcag-conformance-levels
   - name: 'Глобальные атрибуты'
     items:
       - aria-hidden
@@ -24,6 +25,7 @@ groups:
       - aria-labelledby
       - aria-describedby
       - aria-description
+      - aria-details
       - aria-roledescription
       - aria-keyshortcuts
       - aria-live
@@ -38,16 +40,22 @@ groups:
     items:
       - aria-labelledby
       - aria-describedby
+      - aria-details
       - aria-errormessage
       - aria-controls
       - aria-owns
+      - aria-activedescendant
+      - aria-setsize
+      - aria-posinset
   - name: 'Структура документа'
     items:
       - role-presentation-none
+      - role-generic
       - role-heading
       - role-img-image
       - role-list
       - role-mark
+      - role-separator
       - role-tooltip
   - name: '«Живые» области'
     items:
@@ -74,9 +82,20 @@ groups:
     items:
       - role-button
       - role-link
-      - role-tablist
       - role-checkbox
+      - role-tablist
+      - role-tab
+      - role-tabpanel
+      - role-separator
+      - role-treegrid
+      - role-menu
+      - role-menubar
+      - role-menuitem
+      - role-menuitemradio
+      - role-menuitemcheckbox
+      - role-tree
       - role-switch
+      - role-treeitem
       - aria-hidden
       - aria-level
       - aria-placeholder
@@ -89,10 +108,20 @@ groups:
       - aria-pressed
       - aria-disabled
       - aria-readonly
+      - aria-autocomplete
       - aria-expanded
       - aria-haspopup
       - aria-controls
       - aria-owns
+      - aria-modal
+      - aria-orientation
+      - aria-sort
+      - aria-setsize
+      - aria-posinset
+  - name: 'Окна'
+    items:
+      - role-dialog
+      - role-alertdialog
       - aria-modal
   - name: 'Доступные имена и описания'
     items:
@@ -100,6 +129,7 @@ groups:
       - aria-labelledby
       - aria-describedby
       - aria-description
+      - aria-details
   - name: 'CSS и доступность'
     items:
       - css-impact-on-a11y
@@ -127,16 +157,30 @@ groups:
       - role-status
       - role-timer
       - role-presentation-none
+      - role-generic
       - role-heading
       - role-img-image
       - role-list
       - role-mark
+      - role-separator
       - role-tooltip
+      - role-treegrid
+      - role-menu
+      - role-menubar
+      - role-menuitem
+      - role-menuitemcheckbox
+      - role-menuitemradio
+      - role-tree
       - role-button
       - role-link
       - role-checkbox
       - role-tablist
+      - role-tab
+      - role-tabpanel
       - role-switch
+      - role-treeitem
+      - role-dialog
+      - role-alertdialog
   - name: 'ARIA-атрибуты'
     items:
       - aria-attrs
@@ -146,6 +190,7 @@ groups:
       - aria-describedby
       - aria-errormessage
       - aria-description
+      - aria-details
       - aria-roledescription
       - aria-keyshortcuts
       - aria-live
@@ -153,7 +198,12 @@ groups:
       - aria-relevant
       - aria-busy
       - aria-owns
+      - aria-activedescendant
+      - aria-setsize
+      - aria-posinset
       - aria-modal
+      - aria-orientation
+      - aria-sort
       - aria-current
       - aria-controls
       - aria-flowto
@@ -167,6 +217,7 @@ groups:
       - aria-pressed
       - aria-disabled
       - aria-readonly
+      - aria-autocomplete
       - aria-expanded
       - aria-haspopup
 ---

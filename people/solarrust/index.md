@@ -4,10 +4,8 @@ url: https://twitter.com/ABatickaya
 photo: photo.png
 roles:
   - doka-core-team
-  - practicum-contributor
 badges:
   - first-contribution-small
-  - hackathon-practicum
 ---
 
 Привет! 🖖
